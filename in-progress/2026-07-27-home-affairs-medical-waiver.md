@@ -166,3 +166,21 @@ video_clip_duration_seconds: 5
 aspect_ratio: "9:16"
 higgsfield_model: kling-video/v2.1/pro/image-to-video
 ```
+
+---
+
+## 11. Render output (auto-appended)
+
+**Rendered:** 2026-07-27 4:28 PM SAST
+**Video URL:** https://d3u0tzju9qaucj.cloudfront.net/fb1e5cec-662c-4f40-8a2a-3c3816a1217b/0706445f-ceac-4708-a6e8-57b4edab4251.mp4
+**request_id:** d8c1b770-627b-4f31-b447-3508a85ad569
+**Model used:** Kling 2.1 Pro image-to-video (no v1/ prefix)
+**Render time:** ~80 seconds (10 polls at 8s)
+**Status:** ✅ base clip complete — needs voiceover + on-screen text + music before posting
+
+**Post-production pending:**
+- [ ] Voiceover recording (SA English, calm authoritative)
+- [ ] On-screen text overlays (hook / body / close)
+- [ ] Music underscore (low-tempo cinematic)
+- [ ] Final QA per section 8 checklist
+- [ ] Michael's final approval
