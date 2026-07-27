@@ -87,7 +87,9 @@ Per IBN Immigration Services, the waiver for **temporary residence visas is only
 
 ## 6. Higgsfield API call spec
 
-**Endpoint:** `POST https://platform.higgsfield.ai/v1/kling-video/v2.1/pro/image-to-video`
+**Endpoint:** `POST https://platform.higgsfield.ai/kling-video/v2.1/pro/image-to-video`
+
+> **Correction note (2026-07-27, 4:21 PM SAST):** Earlier draft included a `v1/` prefix. The verified working endpoint (from `request_id 319dcc7e-3f6b-40c6-8841-78f8e744e38f`) has NO `v1/` prefix. The `v1/` namespace exists separately for `text2image/soul` only. Fixed.
 
 **Headers:**
 ```
